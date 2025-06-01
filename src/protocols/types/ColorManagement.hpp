@@ -3,7 +3,7 @@
 #include "color-management-v1.hpp"
 #include <hyprgraphics/color/Color.hpp>
 
-#define SDR_MIN_LUMINANCE 0.2
+#define SDR_MIN_LUMINANCE 0.005
 #define SDR_MAX_LUMINANCE 80.0
 #define HDR_MIN_LUMINANCE 0.005
 #define HDR_MAX_LUMINANCE 10000.0
